@@ -1,1 +1,1 @@
-#cnflict 1.0
+#conflict 5.0
